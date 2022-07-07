@@ -1,6 +1,7 @@
 body {
   margin: 0;
-  padding: 50px;
+  padding: 5px;
+  padding-bottom: 50px;
   background-color: firebrick;
 }
 
